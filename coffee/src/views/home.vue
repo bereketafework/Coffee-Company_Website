@@ -1,7 +1,7 @@
 <template>
    <v-parallax
     src="https://th.bing.com/th/id/R.c125b21f444fdb5c57fa6d0024ecccae?rik=YiMEODDZAYMInA&pid=ImgRaw&r=0"
-    height="700"
+    height="1100"
   >
     <div class="d-flex flex-column fill-height justify-center align-center text-white">
       <h1 class="text-7xl font-weight-thin mb-4 border-[1px] shadow-lg border-transparent">
