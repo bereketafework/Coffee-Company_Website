@@ -53,8 +53,11 @@
   <div class="relative z-10 flex flex-col justify-center items-center h-full text-center">
     <h1 class="text-5xl font-bold leading-tight mb-4" >Welcome to  <span class="hover:text-red-950" >Nokka Coffee</span> </h1>
     <p class="text-lg text-gray-300 mb-8">Coffee Harvesting And Exporting.</p>
-    <a href="#" class="bg-emerald-400 text-gray-300 hover:bg-emerald-500 py-2 px-6 rounded-lg text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg">Get Started</a>
-  </div>
+    <div class="flex flex-row gap-20">
+    <a href="#" class="bg-emerald-600 text-gray-200  py-2 px-6 rounded-md text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg">About Us</a>
+    <a href="#contact" class="transparent text-emerald-500 border-emerald-500 border-[2px] py-2 px-6 rounded-lg text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg">Contact Us</a>
+</div>
+</div>
 </div>
 </section>
 
