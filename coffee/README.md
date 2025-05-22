@@ -1,9 +1,8 @@
-Here's a professional and comprehensive README template you can use for your Coffee Company project. This version highlights features, responsiveness, all functionalities, and clear instructions for installation and usage.
 
----
+
 
 # Coffee Company
-
+---
 A responsive web application for a coffee company, built with Vue 3 and Vite. This project features a modern interface, smooth navigation, and complete functionality for showcasing coffee products and business details.
 
 ## Features
@@ -15,10 +14,6 @@ A responsive web application for a coffee company, built with Vue 3 and Vite. Th
 - **Fast Performance**: Leveraging Vite for lightning-fast development and build speed.
 - **Component-Based Structure**: Well-organized, reusable Vue components.
 - **Easy Customization**: Built with scalability and future enhancements in mind.
-
-## Demo
-
-> _Add screenshots or a link to a live demo here if available._
 
 ## Tech Stack
 
@@ -37,8 +32,8 @@ A responsive web application for a coffee company, built with Vue 3 and Vite. Th
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/bereketafework/Coffee-Company.git
-cd Coffee-Company/coffee
+[git clone https://github.com/bereketafework/Coffee-Company.git
+cd Coffee-Company/coffee](https://github.com/bereketafework/Coffee-Company.git)
 ```
 
 Install dependencies:
