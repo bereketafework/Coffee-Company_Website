@@ -77,18 +77,4 @@ npm run preview
 - Update product listings, images, and business information in the appropriate Vue components.
 - Modify styles in the CSS files to match your brand.
 
-## Folder Structure
 
-> _Add a brief description of the main folders and files if you want to help contributors._
-
-## Contribution
-
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-
-## License
-
-> _Specify your license here, e.g., MIT, if applicable._
-
----
-
-Let me know if you'd like this README customized further, or if you want feature descriptions based on specific project files!
